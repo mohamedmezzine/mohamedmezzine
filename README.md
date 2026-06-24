@@ -1,44 +1,36 @@
 # Mohamed Mezzine
 
-**AI Engineer | Data & BI Developer | LLM & RAG Enthusiast**
+**AI Engineer | Data & BI Developer**
 
-I build AI and data systems focused on practical business and research use cases: LLM applications, Retrieval-Augmented Generation, data analysis, dashboards, machine learning, and intelligent agents.
+I work on AI and data projects involving machine learning, RAG systems, data analysis, dashboards, backend APIs, and intelligent agents.
 
-## Focus Areas
+## Areas of Interest
 
-- LLM applications and RAG systems
-- AI research assistants and document intelligence
-- Machine learning and deep learning projects
-- Business Intelligence with Power BI and SQL
-- Data engineering, APIs, and backend development
+- LLM applications and Retrieval-Augmented Generation
+- Machine learning and deep learning
+- Business Intelligence and dashboarding
+- Data engineering and API development
 - Multi-agent systems and reinforcement learning
 
 ## Technical Stack
 
-**Languages:** Python, SQL, Java, JavaScript  
+**Languages:** Python, SQL, Java, JavaScript, PHP  
 **AI / ML:** Scikit-learn, TensorFlow/Keras, PyTorch, NLP, CNNs, XAI  
-**LLM / RAG:** LangChain, vector databases, embeddings, FAISS/ChromaDB, OpenAI/Gemini APIs  
-**Backend / Data:** FastAPI, Flask, PostgreSQL, MongoDB, Docker  
+**LLM / RAG:** LangChain, embeddings, FAISS, ChromaDB, OpenAI/Gemini APIs  
+**Backend / Data:** FastAPI, Flask, PostgreSQL, MySQL, MongoDB, Docker  
 **BI & Analytics:** Power BI, DAX, Excel, pandas, data visualization  
 **Other:** Git, GitHub, Linux basics, REST APIs
 
-## Featured Repositories
+## Selected Projects
 
 ### [Healthcare Offline RL](https://github.com/mohamedmezzine/HEALTHCARE)
-Offline reinforcement learning project for healthcare decision-support research, using patient-state features, discrete actions, rewards, PyTorch models, and offline evaluation utilities.
+Offline reinforcement learning project using patient-state features, discrete actions, rewards, PyTorch models, and offline evaluation utilities.
 
 ### [HadoopBoost](https://github.com/mohamedmezzine/HadoopBoost)
-Big Data repository related to Hadoop and distributed data processing concepts.
+Responsive static website for a Big Data / Hadoop service concept.
 
-### AI Research Assistant
-Portfolio project in progress: research paper analysis using document processing, embeddings, vector search, RAG pipelines, and LLM APIs.
-
-## What I am currently improving
-
-- Production-ready AI project structure
-- Clean GitHub repositories with professional documentation
-- RAG, LangGraph, MCP, and agentic AI workflows
-- Recruiter-friendly project presentation
+### [Multi-Restaurant Food Ordering Web App](https://github.com/mohamedmezzine/pfe6)
+Laravel/PHP/MySQL food-ordering application with product management, cart logic, admin pages, and image uploads.
 
 ## Contact
 
