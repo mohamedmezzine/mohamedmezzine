@@ -26,6 +26,9 @@ I work on AI and data projects involving machine learning, RAG systems, data ana
 ### [MEZZINE AI Research Assistant](https://github.com/mohamedmezzine/ai-research-assistant-github)
 Local-first AI research workspace for uploading academic PDFs, indexing them with embeddings, and asking grounded questions using a RAG pipeline with PostgreSQL/pgvector, FastAPI, Gemini, Ollama, and local AI modes.
 
+### [Spatial Public Goods Game with Multi-Agent Reinforcement Learning](https://github.com/mohamedmezzine/PFE_Spatial_Public_Goods_Game)
+Master's thesis project studying the emergence of cooperation in the Public Goods Game through spatial multi-agent simulation, Fermi imitation dynamics, Q-learning, and Deep Q-Networks.
+
 ### [Healthcare Offline RL](https://github.com/mohamedmezzine/HEALTHCARE)
 Offline reinforcement learning project using patient-state features, discrete actions, rewards, PyTorch models, and offline evaluation utilities.
 
