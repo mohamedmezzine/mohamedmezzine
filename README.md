@@ -16,25 +16,22 @@ I build AI and data systems focused on practical business and research use cases
 ## Technical Stack
 
 **Languages:** Python, SQL, Java, JavaScript  
-**AI / ML:** Scikit-learn, TensorFlow/Keras, PyTorch basics, NLP, CNNs, XAI  
+**AI / ML:** Scikit-learn, TensorFlow/Keras, PyTorch, NLP, CNNs, XAI  
 **LLM / RAG:** LangChain, vector databases, embeddings, FAISS/ChromaDB, OpenAI/Gemini APIs  
 **Backend / Data:** FastAPI, Flask, PostgreSQL, MongoDB, Docker  
 **BI & Analytics:** Power BI, DAX, Excel, pandas, data visualization  
 **Other:** Git, GitHub, Linux basics, REST APIs
 
-## Featured Project Directions
+## Featured Repositories
+
+### [Healthcare Offline RL](https://github.com/mohamedmezzine/HEALTHCARE)
+Offline reinforcement learning project for healthcare decision-support research, using patient-state features, discrete actions, rewards, PyTorch models, and offline evaluation utilities.
+
+### [HadoopBoost](https://github.com/mohamedmezzine/HadoopBoost)
+Big Data repository related to Hadoop and distributed data processing concepts.
 
 ### AI Research Assistant
-A portfolio project for research paper analysis using document processing, embeddings, vector search, RAG pipelines, and LLM APIs.
-
-### Medical Image Classification with XAI
-Deep learning project for pneumonia detection using CNN models and explainability techniques such as Grad-CAM.
-
-### Multi-Agent Traffic Light Control
-Simulation-based project using reinforcement learning and multi-agent coordination for traffic optimization.
-
-### Business Intelligence Dashboards
-Power BI and SQL projects focused on KPIs, reporting, and business decision support.
+Portfolio project in progress: research paper analysis using document processing, embeddings, vector search, RAG pipelines, and LLM APIs.
 
 ## What I am currently improving
 
@@ -46,5 +43,3 @@ Power BI and SQL projects focused on KPIs, reporting, and business decision supp
 ## Contact
 
 - GitHub: [mohamedmezzine](https://github.com/mohamedmezzine)
-- LinkedIn: Add your LinkedIn link here
-- Portfolio: Add your portfolio link here
