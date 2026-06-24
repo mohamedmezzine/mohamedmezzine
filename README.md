@@ -34,6 +34,6 @@ Laravel/PHP/MySQL food-ordering application with product management, cart logic,
 
 ## Contact
 
-- Email: [mohamedmez777@gmail.com](mailto:mohamedmez777@gmail.com)
+- Email: [mezzinemohamed2@gmail.com](mailto:mezzinemohamed2@gmail.com)
 - LinkedIn: [linkedin.com/in/mohamed-mezzine](https://www.linkedin.com/in/mohamed-mezzine)
 - GitHub: [mohamedmezzine](https://github.com/mohamedmezzine)
