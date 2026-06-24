@@ -23,6 +23,9 @@ I work on AI and data projects involving machine learning, RAG systems, data ana
 
 ## Selected Projects
 
+### [MEZZINE AI Research Assistant](https://github.com/mohamedmezzine/ai-research-assistant-github)
+Local-first AI research workspace for uploading academic PDFs, indexing them with embeddings, and asking grounded questions using a RAG pipeline with PostgreSQL/pgvector, FastAPI, Gemini, Ollama, and local AI modes.
+
 ### [Healthcare Offline RL](https://github.com/mohamedmezzine/HEALTHCARE)
 Offline reinforcement learning project using patient-state features, discrete actions, rewards, PyTorch models, and offline evaluation utilities.
 
